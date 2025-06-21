@@ -1,1 +1,1 @@
-# odin_recipes
+This Project lists recipes of various food items
